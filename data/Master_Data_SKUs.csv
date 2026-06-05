@@ -1,0 +1,106 @@
+Item_Code,Description,Category,Weight_kg,Pallet_Volume,Shelf_Life_Days
+ABA-1008,Azucar 2kg,Abarrotes Secos,10.6,1.199,445
+ABA-1014,Harina 2kg,Abarrotes Secos,9.56,1.189,345
+BOT-1009,Papas Fritas 45g,Botanas Alto Volumen,5.25,2.194,104
+BEB-1005,Refresco Toronja 355ml,Bebidas Pesadas,14.2,0.922,277
+BEB-1002,REFRESCO COLA 1L,Bebidas Pesadas,,1.146,291
+LAC-1000,Crema 900ml,Lacteos Perecederos,8.18,1.389,29
+BOT-1016,Cacahuates 120g,Botanas Alto Volumen,5.53,2.284,114
+PRO-1009 ,Temporada Pack 6,Estacional Promo,11.96,1.89,90
+PRO-1009 ,Temporada Pack 6,Estacional Promo,11.96,1.89,90
+BEB-1000,te helado 1l,Bebidas Pesadas,16.49,1.18,315
+  BOT-1017,Frituras Maiz 170g,Botanas Alto Volumen,3.75,2.303,106
+LAC-1014,Yogurt Griego 1000g,Lacteos Perecederos,8.05,1.045,28
+ABA-1017 ,Azucar 1kg,Abarrotes Secos,10.96,0.906,520
+BEB-1012,Te Helado 2L,Bebidas Pesadas,15.66,0.839,306
+PRO-1014,Edicion Limitada 6pz,Estacional Promo,5.27,1.522,129
+  BOT-1014,Botana Mixta 350g,Botanas Alto Volumen,3.92,1.569,98
+LAC-1002,Yogurt Bebible 900ml,Lacteos Perecederos,7.71,1.015,23
+BOT-1001,Cacahuates  60g,Botanas Alto Volumen,6.95,2.195,95
+ABA-1001	,Arroz 1kg,Abarrotes Secos,,1.19,512
+LAC-1007,Yogurt Bebible 900ml,Lacteos Perecederos,10.37,1.147,24
+PRO-1008 ,Edicion  Especial  Pack  12,Estacional Promo,11.98,1.65,123
+PRO-1013,Combo Fiesta 10pz,Estacional Promo,4.37,1.823,92
+LAC-1005,Crema 450ml,Lacteos Perecederos,8.94,1.394,17
+BOT-1013,Botana Mixta 200g,Botanas Alto Volumen,4.0,1.869,112
+BOT-1015,Cacahuates 60g,Botanas Alto Volumen,3.64,2.337,114
+ABA-1003,Avena 200g,Abarrotes Secos,8.67,0.965,512
+LAC-1004,Yogurt Bebible 220ml,Lacteos Perecederos,11.45,1.096,16
+BEB-1021,Agua Mineral 1.5L,Bebidas Pesadas,16.28,0.912,280
+BEB-1001,Agua Mineral 1.5L,Bebidas Pesadas,19.18,0.862,208
+LAC-1001,Yogurt Griego 1000g,Lacteos Perecederos,7.51,1.199,18
+PRO-1010,Edicion Especial Pack 6,Estacional Promo,7.76,1.094,112
+BEB-1019,Bebida Deportiva 355ml,Bebidas Pesadas,14.35,0.818,240
+ABA-1002,Harina 2kg,Abarrotes Secos,15.1,1.212,443
+LAC-1010,Queso  Fresco  400g,Lacteos Perecederos,6.24,1.236,24
+LAC-1017,Queso Fresco 500g,Lacteos Perecederos,7.45,1.037,28
+PRO-1002,Temporada Pack 6,Estacional Promo,9.7,1.097,115
+BOT-1022,Frituras Maiz 50g,Botanas Alto Volumen,3.48,1.804,118
+BEB-1008,Agua Mineral 1L,Bebidas Pesadas,17.47,1.114,216
+ABA-1012,  Cereal 500g,Abarrotes Secos,15.14,1.152,484
+BOT-1005,totopos 300g,Botanas Alto Volumen,5.49,1.798,91
+BEB-1004,Te Helado 2L,Bebidas Pesadas,21.99,0.885,213
+LAC-1003,Crema 200ml,Lacteos Perecederos,9.02,1.021,18
+ABA-1003,Avena 200g,Abarrotes Secos,,0.965,512
+BOT-1019,Chicharron 120g,Botanas Alto Volumen,3.44,1.705,102
+LAC-1009,Yogurt Bebible 900ml,Lacteos Perecederos,11.01,1.128,16
+LAC-1006,Crema 200ml,Lacteos Perecederos,10.03,1.305,17
+ABA-1004,Avena 200g,Abarrotes Secos,12.85,0.904,297
+BOT-1008,  Frituras Maiz 170g,Botanas Alto Volumen,3.48,2.142,112
+BOT-1020,Papas Fritas 90g,Botanas Alto Volumen,6.27,2.275,90
+ABA-1015,Cereal 300g,Abarrotes Secos,8.19,1.158,317
+BOT-1011 ,Cacahuates 60g,Botanas Alto Volumen,3.43,1.528,109
+ABA-1009,Harina 2kg,Abarrotes Secos,14.79,1.163,423
+ABA-1000,Azucar 2kg,Abarrotes Secos,15.2,1.153,361
+BOT-1002,Chicharron  80g,Botanas Alto Volumen,3.02,2.234,111
+BEB-1014,agua natural 1.5l,Bebidas Pesadas,12.41,1.164,227
+ABA-1006,Cereal 300g,Abarrotes Secos,12.39,1.177,446
+BOT-1023,Botana Mixta 200g,Botanas Alto Volumen,4.29,1.967,111
+BOT-1007,Cacahuates 210g,Botanas Alto Volumen,,2.298,104
+LAC-1008,Yogurt Griego 500g,Lacteos Perecederos,9.8,1.214,15
+BEB-1011,Te Helado 2L,Bebidas Pesadas,23.39,1.186,329
+  PRO-1000,Temporada Pack 6,Estacional Promo,12.51,1.317,75
+LAC-1013,Yogurt Bebible 220ml,Lacteos Perecederos,8.32,1.375,16
+ ABA-1018 ,Azucar 1kg,Abarrotes Secos,11.43,1.287,530
+BEB-1006,Refresco Toronja 500ml,Bebidas Pesadas,17.18,0.916,293
+ ABA-1005 ,Cereal 200g,Abarrotes Secos,13.31,0.902,313
+PRO-1007,Combo Fiesta 10pz,Estacional Promo,13.13,1.511,105
+BOT-1021,Totopos 500g,Botanas Alto Volumen,5.04,1.876,96
+BEB-1017	,Bebida Deportiva 500ml,Bebidas Pesadas,21.3,1.176,345
+ABA-1013,Avena 800g,Abarrotes Secos,12.02,1.131,402
+BEB-1018,Refresco Cola 1L,Bebidas Pesadas,19.17,1.169,196
+PRO-1004,Pack Promocional 12pz,Estacional Promo,12.77,1.741,122
+BEB-1010,Refresco Toronja 355ml,Bebidas Pesadas,,0.868,192
+BOT-1010,Chicharron 40g,Botanas Alto Volumen,5.09,1.885,90
+LAC-1011,Yogurt Griego 500g,Lacteos Perecederos,6.1,1.205,17
+LAC-1015,Leche Deslactosada 1.5L,Lacteos Perecederos,11.26,1.103,24
+ABA-1016 ,Avena 400g,Abarrotes Secos,15.52,1.282,517
+ABA-1010,Harina 2kg,Abarrotes Secos,8.75,1.047,341
+BEB-1003,Refresco Cola 0.6L,Bebidas Pesadas,20.5,0.808,359
+BOT-1003,Totopos 150g,Botanas Alto Volumen,5.92,2.194,92
+LAC-1012,Yogurt Bebible 250ml,Lacteos Perecederos,9.87,1.07,25
+PRO-1012,Edicion Especial Pack 24,Estacional Promo,6.87,1.591,62
+BEB-1013,AGUA NATURAL 0.5L,Bebidas Pesadas,17.28,0.849,271
+PRO-1005,Edicion Limitada 6pz,Estacional Promo,11.02,1.359,86
+BEB-1006,Refresco Toronja 500ml,Bebidas Pesadas,17.18,0.916,293
+BEB-1007,Agua Mineral 0.5L,Bebidas Pesadas,13.67,0.917,247
+PRO-1003,Pack Promocional 8pz,Estacional Promo,13.9,1.14,106
+LAC-1016,Yogurt Griego 1000g,Lacteos Perecederos,10.9,1.222,22
+BEB-1016,Refresco  Cola  2.5L,Bebidas Pesadas,,0.874,359
+ABA-1019,CEREAL 500G,Abarrotes Secos,14.82,1.018,373
+BOT-1004,Botana Mixta 100g,Botanas Alto Volumen,4.43,1.604,115
+PRO-1012,Edicion Especial Pack 24,Estacional Promo,6.87,1.591,62
+PRO-1001,Edicion Limitada 6pz,Estacional Promo,9.57,1.936,122
+BOT-1018,Cacahuates 210g,Botanas Alto Volumen,6.23,2.306,99
+BOT-1012,Frituras Maiz 50g,Botanas Alto Volumen,4.26,1.958,117
+ABA-1007,Harina 1kg,Abarrotes Secos,9.79,1.185,334
+BOT-1000,Cacahuates 210g,Botanas Alto Volumen,3.56,2.222,92
+ABA-1011,Harina 1kg,Abarrotes Secos,9.95,1.289,376
+BEB-1020,Agua Mineral 2L,Bebidas Pesadas,16.66,0.909,333
+BEB-1009,Refresco Cola 0.6L,Bebidas Pesadas,18.17,1.037,188
+ABA-1000,Azucar 2kg,Abarrotes Secos,15.2,1.153,361
+BOT-1006,  Chicharron 120g,Botanas Alto Volumen,4.24,1.793,111
+PRO-1011,Edicion Limitada 6pz,Estacional Promo,4.36,1.466,108
+BEB-1015,Bebida Deportiva 355ml,Bebidas Pesadas,19.95,0.925,276
+PRO-1006,Edicion Limitada 12pz,Estacional Promo,12.09,1.81,138
+PRO-1015,Pack  Promocional  12pz,Estacional Promo,6.16,1.623,67
