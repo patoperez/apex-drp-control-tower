@@ -4,7 +4,6 @@
 
 This project simulates the daily work of a Distribution / Supply Chain Analyst: it takes messy operational data from multiple sources, cleans and enriches it, computes DRP indicators (statistical safety stock, reorder points, in-transit coverage), flags the exceptions that require human action, decides how to fairly allocate scarce supply across distribution centers, and presents everything in an executive dashboard.
 
-> Built as a portfolio piece. The goal was not to show a "nice spreadsheet" but to demonstrate the actual reasoning a distribution analyst applies every day — and to do it one level deeper than a typical entry-level candidate would.
 
 ---
 
